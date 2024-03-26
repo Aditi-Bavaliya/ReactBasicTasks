@@ -1,0 +1,13 @@
+/* TwoWayDataBinding.css */
+.input-field {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .entered-element {
+    /* Add additional styles for the paragraph if needed */
+    font-family: 'Courier New', Courier, monospace;
+  }
+  

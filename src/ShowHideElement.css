@@ -1,0 +1,20 @@
+/* ShowHideElement.css */
+.button-container {
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
+  .show-hide-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .show-hide-element {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

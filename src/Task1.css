@@ -1,0 +1,33 @@
+
+body {
+  margin: 10px;
+  padding: 10;
+  height: 118vh;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.task1heading{
+  padding-top: 20%;
+} 
+
+.task-table {
+  width: 100%; /* Optional: Set table width */
+  border-collapse: collapse;
+}
+
+.task-table td {
+  text-align: center; /* Align items to center within table cells */
+}
+
+.center-align {
+  text-align: center; /* Align content to center within the cell */
+}
+.center-align {
+  display: flex;
+  justify-content: center;
+}
+.cell-padding {
+  padding: 10px;
+}

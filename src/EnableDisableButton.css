@@ -1,0 +1,24 @@
+/* EnableDisableButton.css */
+.button-container {
+    margin-bottom: 10px;
+  }
+  
+  .enable-disable-button {
+    background-color: green;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .enable-disable-button.disabled {
+    background-color: red;
+  }
+  
+  .button-text {
+    margin-left: 5px;
+    color: #333;
+
+  }
+  
