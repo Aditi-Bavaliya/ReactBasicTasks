@@ -9,9 +9,7 @@ export default function Counter() {
   };
 
   const handleDecrease = () => {
-    if (count > 0) {
       setCount(count - 1);
-    }
   };
   return (
     <>
